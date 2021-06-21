@@ -1,0 +1,14 @@
+{
+  "name": "send-email-with-nodejs",
+  "version": "1.0.0",
+  "description": "send email with nodejs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "alberth henrique",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.6.1"
+  }
+}
