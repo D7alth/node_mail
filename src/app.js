@@ -12,7 +12,7 @@ email = {
     from:'testmail@gmail.com',
     to:'testmail2@gmail.com',
     subject:'test',
-    text: 'this mail is a just test'
+    text: 'test mail'
 }
 sender.sendMail(email, (err)=>{
     if(err){console.log(err)}
