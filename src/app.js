@@ -10,7 +10,7 @@ sender = sendMail.createTransport({
 }),
 email = {
     from:'testmail@gmail.com',
-    to:'d7alth.exe@gmail.com',
+    to:'testmail2@gmail.com',
     subject:'test',
     text: 'this mail is a just test'
 }

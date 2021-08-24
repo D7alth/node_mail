@@ -1,2 +1,3 @@
-# Email_sender_with_nodejs
-This project is just a module for an app.
+# SENDER EMAIL WITH NODE JS
+
+_version 0.1_
